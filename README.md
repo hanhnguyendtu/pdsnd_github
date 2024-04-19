@@ -7,14 +7,11 @@ April 19, 2024
 ### Project Title
 Post Your Work on GitHub
 
-
 ### Description
 This project entails simulating a realistic workflow to refactor your previous Project 2 using Git.
 
-
 ### Files used
 The file Git Commands Documentation.pdf contains the necessary commands for performing tasks.
-
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
